@@ -18,7 +18,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact)
 
-![Nullis Developer](https://img.shields.io/badge/Nullis-Developer-blue?style=for-the-badge)
+![ITPro250](https://img.shields.io/badge/ITPro-250-blue?style=for-the-badge)
 
 ---
 
