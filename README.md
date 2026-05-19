@@ -3,7 +3,7 @@
   <img src="https://github.com/ITRwanda/ITRwanda/blob/main/banner.png" alt="Tech Banner" width="100%" />
 </p>
 
-# Hi there 👋 I'm Jean d'Amour
+# Hi 👋 I'm Jean d'Amour
 
 💻 Full Stack Developer | IoT & FinTech | AWS Solutions Architect  
 🌱 Currently learning Machine Learning & IoT integration  
@@ -17,6 +17,8 @@
 ![Laravel CI](https://github.com/ITRwanda/Green-Banana-Storage/actions/workflows/laravel.yml/badge.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact)
+
+![Nullis Developer](https://img.shields.io/badge/Nullis-Developer-blue?style=for-the-badge)
 
 ---
 
