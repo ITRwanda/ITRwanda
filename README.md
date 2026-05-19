@@ -13,6 +13,8 @@
 
 ## 📊 GitHub Stats & Badges
 
+## 📊 GitHub Stats & Badges
+
 ![Profile views](https://komarev.com/ghpvc/?username=ITRwanda&color=blue)
 ![Laravel CI](https://github.com/ITRwanda/Green-Banana-Storage/actions/workflows/laravel.yml/badge.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical)
@@ -28,11 +30,13 @@
 ---
 
 ## 🛠️ Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00A1E0?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
