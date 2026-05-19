@@ -13,8 +13,6 @@
 
 ## 📊 GitHub Stats & Badges
 
-## 📊 GitHub Stats & Badges
-
 ![Profile views](https://komarev.com/ghpvc/?username=ITRwanda&color=blue)
 ![Laravel CI](https://github.com/ITRwanda/Green-Banana-Storage/actions/workflows/laravel.yml/badge.svg)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical)
