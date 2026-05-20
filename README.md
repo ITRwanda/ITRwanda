@@ -9,7 +9,7 @@
 
 **Full Stack Developer** | IoT & FinTech | **AWS Solutions Architect**
 
-I’m not only learning anymore — I already have strong skills in **Machine Learning** and **IoT integration**, and I enjoy building real-world products that bring tech and community impact together.
+I have strong experience across **Machine Learning**, **IoT integration**, **software development**, and **networking**, and I enjoy building real-world solutions that deliver measurable impact.
 
 📍 Kigali, Rwanda
 
