@@ -3,11 +3,17 @@
   <img src="https://github.com/ITRwanda/ITRwanda/blob/main/banner.png" alt="Tech Banner" width="100%" />
 </p>
 
+<div align="center">
+
 # Hi 👋 I'm Jean d'Amour
 
-💻 Full Stack Developer | IoT & FinTech | AWS Solutions Architect  
-🌱 Currently learning Machine Learning & IoT integration  
-📍 Kigali, Rwanda  
+**Full Stack Developer** | IoT & FinTech | **AWS Solutions Architect**
+
+I’m not only learning anymore — I already have strong skills in **Machine Learning** and **IoT integration**, and I enjoy building real-world products that bring tech and community impact together.
+
+📍 Kigali, Rwanda
+
+</div>
 
 ---
 
@@ -23,13 +29,15 @@
 ---
 
 ## 🚀 Current Projects
-- **Green-Banana-Storage** – Agricultural tech for banana storage (Laravel + IoT)
-- **Smart Waste System** – IoT solution for waste management
-- **IwacuFinance** – FinTech platform for local communities
+
+- **Green-Banana-Storage** — Agricultural tech for banana storage *(Laravel + IoT)*
+- **Smart Waste System** — IoT solution for waste management
+- **IwacuFinance** — FinTech platform for local communities
 
 ---
 
 ## 🛠️ Tech Stack
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,11 +49,14 @@
 ---
 
 ## 🌐 Connect with Me
-[Portfolio](https://jeandamour.netlify.app/) | 
-[LinkedIn](https://linkedin.com/in/it-professional-050b88294) | 
+
+[Portfolio](https://jeandamour.netlify.app/) |
+[LinkedIn](https://linkedin.com/in/it-professional-050b88294) |
 [Twitter](https://twitter.com/ITProfesh)
 
 ---
 
 ## ⚡ Fun Fact
+
 I love building scalable systems that bridge **technology and community impact** — from agriculture to fintech to IoT.
+
