@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Hi 👋 I'm Jean d'Amour
+# Hi 👋 I'm TWAGIRUMUKIZA
 
 **Full Stack Developer** | IoT & FinTech | **AWS Solutions Architect**
 
@@ -31,6 +31,9 @@ I have strong experience across **Machine Learning**, **IoT integration**, **sof
 
 ### Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ITRwanda&theme=radical&no-frame=true)
+
+### Committers.top (GitHub ranking)
+![committers.top](https://committers.top/badge/ITRwanda.svg)
 
 ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true&langs_count=10&hide=CSS,HTML)
 ![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true&langs_count=10&sort=commits)
