@@ -21,8 +21,8 @@ I have strong experience across **Machine Learning**, **IoT integration**, **sof
 
 ![Profile views](https://komarev.com/ghpvc/?username=ITRwanda&color=blue)
 ![Laravel CI](https://github.com/ITRwanda/Green-Banana-Storage/actions/workflows/laravel.yml/badge.svg)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true)
 
 ![ITPro250](https://img.shields.io/badge/ITPro-250-blue?style=for-the-badge)
 
