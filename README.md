@@ -21,8 +21,21 @@ I have strong experience across **Machine Learning**, **IoT integration**, **sof
 
 ![Profile views](https://komarev.com/ghpvc/?username=ITRwanda&color=blue)
 ![Laravel CI](https://github.com/ITRwanda/Green-Banana-Storage/actions/workflows/laravel.yml/badge.svg)
+
+### Contribution Graph
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ITRwanda&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ITRwanda&theme=radical&hide_border=true)
+
+### GitHub Analysis
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ITRwanda&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true)
+
+### Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ITRwanda&theme=radical&no-frame=true)
+
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true&langs_count=10&hide=CSS,HTML)
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ITRwanda&layout=compact&hide_border=true&langs_count=10&sort=commits)
+
+
 
 ![ITPro250](https://img.shields.io/badge/ITPro-250-blue?style=for-the-badge)
 
